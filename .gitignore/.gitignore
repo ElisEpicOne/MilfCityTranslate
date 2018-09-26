@@ -1,0 +1,12 @@
+*.rpyc
+*.rpyb
+*.png
+log.txt
+cache
+gui
+images
+saves
+sfx
+videos
+icon.ico
+errors.txt
